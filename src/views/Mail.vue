@@ -10,7 +10,9 @@
       </ul>
     </div>
     <div class="card-body">
-      <router-view></router-view>
+      <router-view>
+        
+      </router-view>
     </div>
   </div>
 </template>
